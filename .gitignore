@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AutomationFrameworkExample/v16/TestStore/0
+/AutomationFrameworkExample/bin/Debug/netcoreapp3.0
+/AutomationFrameworkExample/obj
+/SystemUnderTestExample/bin/Debug/netcoreapp3.0/cs
+/SystemUnderTestExample/bin/Debug/netcoreapp3.0/de
+/SystemUnderTestExample/bin/Debug/netcoreapp3.0/es
+/SystemUnderTestExample/bin/Debug/netcoreapp3.0/fr
+/SystemUnderTestExample/bin/Debug/netcoreapp3.0/it
+/SystemUnderTestExample/bin/Debug/netcoreapp3.0
+/SystemUnderTestExample/obj/Debug/netcoreapp3.0
+/SystemUnderTestExample/obj
